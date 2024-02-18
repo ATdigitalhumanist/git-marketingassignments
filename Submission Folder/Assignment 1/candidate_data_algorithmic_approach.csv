@@ -1,0 +1,244 @@
+Price,Time Insulated,Capacity,Cleanability,Containment,Expected Share,Cost,Margin,Expected Profit per Person
+$30,0.5 hrs,12 oz,Difficult (7 min),Slosh resistant,0.7608,3.00,27.00,20.54
+$30,0.5 hrs,12 oz,Difficult (7 min),Spill resistant,0.7600,3.30,26.70,20.29
+$30,0.5 hrs,12 oz,Difficult (7 min),Leak resistant,0.7595,3.50,26.50,20.13
+$30,0.5 hrs,12 oz,Clean Fair,Slosh resistant,0.7577,4.20,25.80,19.55
+$30,0.5 hrs,12 oz,Clean Fair,Spill resistant,0.7569,4.50,25.50,19.30
+$30,0.5 hrs,12 oz,Clean Fair,Leak resistant,0.7564,4.70,25.30,19.14
+$30,0.5 hrs,12 oz,Clean Easy,Slosh resistant,0.7557,5.00,25.00,18.89
+$30,0.5 hrs,12 oz,Clean Easy,Spill resistant,0.7549,5.30,24.70,18.65
+$30,0.5 hrs,12 oz,Clean Easy,Leak resistant,0.7544,5.50,24.50,18.48
+$30,0.5 hrs,20 oz,Difficult (7 min),Slosh resistant,0.7567,4.60,25.40,19.22
+$30,0.5 hrs,20 oz,Difficult (7 min),Spill resistant,0.7559,4.90,25.10,18.97
+$30,0.5 hrs,20 oz,Difficult (7 min),Leak resistant,0.7554,5.10,24.90,18.81
+$30,0.5 hrs,20 oz,Clean Fair,Slosh resistant,0.7536,5.80,24.20,18.24
+$30,0.5 hrs,20 oz,Clean Fair,Spill resistant,0.7528,6.10,23.90,17.99
+$30,0.5 hrs,20 oz,Clean Fair,Leak resistant,0.7523,6.30,23.70,17.83
+$30,0.5 hrs,20 oz,Clean Easy,Slosh resistant,0.7515,6.60,23.40,17.59
+$30,0.5 hrs,20 oz,Clean Easy,Spill resistant,0.7507,6.90,23.10,17.34
+$30,0.5 hrs,20 oz,Clean Easy,Leak resistant,0.7502,7.10,22.90,17.18
+$30,0.5 hrs,32 oz,Difficult (7 min),Slosh resistant,0.7562,4.80,25.20,19.06
+$30,0.5 hrs,32 oz,Difficult (7 min),Spill resistant,0.7554,5.10,24.90,18.81
+$30,0.5 hrs,32 oz,Difficult (7 min),Leak resistant,0.7549,5.30,24.70,18.65
+$30,0.5 hrs,32 oz,Clean Fair,Slosh resistant,0.7531,6.00,24.00,18.07
+$30,0.5 hrs,32 oz,Clean Fair,Spill resistant,0.7523,6.30,23.70,17.83
+$30,0.5 hrs,32 oz,Clean Fair,Leak resistant,0.7518,6.50,23.50,17.67
+$30,0.5 hrs,32 oz,Clean Easy,Slosh resistant,0.7510,6.80,23.20,17.42
+$30,0.5 hrs,32 oz,Clean Easy,Spill resistant,0.7502,7.10,22.90,17.18
+$30,0.5 hrs,32 oz,Clean Easy,Leak resistant,0.7497,7.30,22.70,17.02
+$30,1 hrs,12 oz,Difficult (7 min),Slosh resistant,0.7595,3.50,26.50,20.13
+$30,1 hrs,12 oz,Difficult (7 min),Spill resistant,0.7587,3.80,26.20,19.88
+$30,1 hrs,12 oz,Difficult (7 min),Leak resistant,0.7582,4.00,26.00,19.71
+$30,1 hrs,12 oz,Clean Fair,Slosh resistant,0.7564,4.70,25.30,19.14
+$30,1 hrs,12 oz,Clean Fair,Spill resistant,0.7557,5.00,25.00,18.89
+$30,1 hrs,12 oz,Clean Fair,Leak resistant,0.7551,5.20,24.80,18.73
+$30,1 hrs,12 oz,Clean Easy,Slosh resistant,0.7544,5.50,24.50,18.48
+$30,1 hrs,12 oz,Clean Easy,Spill resistant,0.7536,5.80,24.20,18.24
+$30,1 hrs,12 oz,Clean Easy,Leak resistant,0.7531,6.00,24.00,18.07
+$30,1 hrs,20 oz,Difficult (7 min),Slosh resistant,0.7554,5.10,24.90,18.81
+$30,1 hrs,20 oz,Difficult (7 min),Spill resistant,0.7546,5.40,24.60,18.56
+$30,1 hrs,20 oz,Difficult (7 min),Leak resistant,0.7541,5.60,24.40,18.40
+$30,1 hrs,20 oz,Clean Fair,Slosh resistant,0.7523,6.30,23.70,17.83
+$30,1 hrs,20 oz,Clean Fair,Spill resistant,0.7515,6.60,23.40,17.59
+$30,1 hrs,20 oz,Clean Fair,Leak resistant,0.7510,6.80,23.20,17.42
+$30,1 hrs,20 oz,Clean Easy,Slosh resistant,0.7502,7.10,22.90,17.18
+$30,1 hrs,20 oz,Clean Easy,Spill resistant,0.7494,7.40,22.60,16.94
+$30,1 hrs,20 oz,Clean Easy,Leak resistant,0.7489,7.60,22.40,16.78
+$30,1 hrs,32 oz,Difficult (7 min),Slosh resistant,0.7549,5.30,24.70,18.65
+$30,1 hrs,32 oz,Difficult (7 min),Spill resistant,0.7541,5.60,24.40,18.40
+$30,1 hrs,32 oz,Difficult (7 min),Leak resistant,0.7536,5.80,24.20,18.24
+$30,1 hrs,32 oz,Clean Fair,Slosh resistant,0.7518,6.50,23.50,17.67
+$30,1 hrs,32 oz,Clean Fair,Spill resistant,0.7510,6.80,23.20,17.42
+$30,1 hrs,32 oz,Clean Fair,Leak resistant,0.7505,7.00,23.00,17.26
+$30,1 hrs,32 oz,Clean Easy,Slosh resistant,0.7497,7.30,22.70,17.02
+$30,1 hrs,32 oz,Clean Easy,Spill resistant,0.7489,7.60,22.40,16.78
+$30,1 hrs,32 oz,Clean Easy,Leak resistant,0.7484,7.80,22.20,16.61
+$30,3 hrs,12 oz,Difficult (7 min),Slosh resistant,0.7544,5.50,24.50,18.48
+$30,3 hrs,12 oz,Difficult (7 min),Spill resistant,0.7536,5.80,24.20,18.24
+$30,3 hrs,12 oz,Difficult (7 min),Leak resistant,0.7531,6.00,24.00,18.07
+$30,3 hrs,12 oz,Clean Fair,Slosh resistant,0.7513,6.70,23.30,17.50
+$30,3 hrs,12 oz,Clean Fair,Spill resistant,0.7505,7.00,23.00,17.26
+$30,3 hrs,12 oz,Clean Fair,Leak resistant,0.7500,7.20,22.80,17.10
+$30,3 hrs,12 oz,Clean Easy,Slosh resistant,0.7492,7.50,22.50,16.86
+$30,3 hrs,12 oz,Clean Easy,Spill resistant,0.7484,7.80,22.20,16.61
+$30,3 hrs,12 oz,Clean Easy,Leak resistant,0.7479,8.00,22.00,16.45
+$30,3 hrs,20 oz,Difficult (7 min),Slosh resistant,0.7502,7.10,22.90,17.18
+$30,3 hrs,20 oz,Difficult (7 min),Spill resistant,0.7494,7.40,22.60,16.94
+$30,3 hrs,20 oz,Difficult (7 min),Leak resistant,0.7489,7.60,22.40,16.78
+$30,3 hrs,20 oz,Clean Fair,Slosh resistant,0.7471,8.30,21.70,16.21
+$30,3 hrs,20 oz,Clean Fair,Spill resistant,0.7463,8.60,21.40,15.97
+$30,3 hrs,20 oz,Clean Fair,Leak resistant,0.7458,8.80,21.20,15.81
+$30,3 hrs,20 oz,Clean Easy,Slosh resistant,0.7450,9.10,20.90,15.57
+$30,3 hrs,20 oz,Clean Easy,Spill resistant,0.7442,9.40,20.60,15.33
+$30,3 hrs,20 oz,Clean Easy,Leak resistant,0.7437,9.60,20.40,15.17
+$30,3 hrs,32 oz,Difficult (7 min),Slosh resistant,0.7497,7.30,22.70,17.02
+$30,3 hrs,32 oz,Difficult (7 min),Spill resistant,0.7489,7.60,22.40,16.78
+$30,3 hrs,32 oz,Difficult (7 min),Leak resistant,0.7484,7.80,22.20,16.61
+$30,3 hrs,32 oz,Clean Fair,Slosh resistant,0.7466,8.50,21.50,16.05
+$30,3 hrs,32 oz,Clean Fair,Spill resistant,0.7458,8.80,21.20,15.81
+$30,3 hrs,32 oz,Clean Fair,Leak resistant,0.7452,9.00,21.00,15.65
+$30,3 hrs,32 oz,Clean Easy,Slosh resistant,0.7445,9.30,20.70,15.41
+$30,3 hrs,32 oz,Clean Easy,Spill resistant,0.7437,9.60,20.40,15.17
+$30,3 hrs,32 oz,Clean Easy,Leak resistant,0.7431,9.80,20.20,15.01
+$10,0.5 hrs,12 oz,Difficult (7 min),Slosh resistant,0.7647,3.00,7.00,5.35
+$10,0.5 hrs,12 oz,Difficult (7 min),Spill resistant,0.7639,3.30,6.70,5.12
+$10,0.5 hrs,12 oz,Difficult (7 min),Leak resistant,0.7634,3.50,6.50,4.96
+$10,0.5 hrs,12 oz,Clean Fair,Slosh resistant,0.7617,4.20,5.80,4.42
+$10,0.5 hrs,12 oz,Clean Fair,Spill resistant,0.7609,4.50,5.50,4.19
+$10,0.5 hrs,12 oz,Clean Fair,Leak resistant,0.7604,4.70,5.30,4.03
+$10,0.5 hrs,12 oz,Clean Easy,Slosh resistant,0.7597,5.00,5.00,3.80
+$10,0.5 hrs,12 oz,Clean Easy,Spill resistant,0.7589,5.30,4.70,3.57
+$10,0.5 hrs,12 oz,Clean Easy,Leak resistant,0.7584,5.50,4.50,3.41
+$10,0.5 hrs,20 oz,Difficult (7 min),Slosh resistant,0.7607,4.60,5.40,4.11
+$10,0.5 hrs,20 oz,Difficult (7 min),Spill resistant,0.7599,4.90,5.10,3.88
+$10,0.5 hrs,20 oz,Difficult (7 min),Leak resistant,0.7594,5.10,4.90,3.72
+$10,0.5 hrs,20 oz,Clean Fair,Slosh resistant,0.7576,5.80,4.20,3.18
+$10,0.5 hrs,20 oz,Clean Fair,Spill resistant,0.7569,6.10,3.90,2.95
+$10,0.5 hrs,20 oz,Clean Fair,Leak resistant,0.7563,6.30,3.70,2.80
+$10,0.5 hrs,20 oz,Clean Easy,Slosh resistant,0.7556,6.60,3.40,2.57
+$10,0.5 hrs,20 oz,Clean Easy,Spill resistant,0.7548,6.90,3.10,2.34
+$10,0.5 hrs,20 oz,Clean Easy,Leak resistant,0.7543,7.10,2.90,2.19
+$10,0.5 hrs,32 oz,Difficult (7 min),Slosh resistant,0.7602,4.80,5.20,3.95
+$10,0.5 hrs,32 oz,Difficult (7 min),Spill resistant,0.7594,5.10,4.90,3.72
+$10,0.5 hrs,32 oz,Difficult (7 min),Leak resistant,0.7589,5.30,4.70,3.57
+$10,0.5 hrs,32 oz,Clean Fair,Slosh resistant,0.7571,6.00,4.00,3.03
+$10,0.5 hrs,32 oz,Clean Fair,Spill resistant,0.7563,6.30,3.70,2.80
+$10,0.5 hrs,32 oz,Clean Fair,Leak resistant,0.7558,6.50,3.50,2.65
+$10,0.5 hrs,32 oz,Clean Easy,Slosh resistant,0.7551,6.80,3.20,2.42
+$10,0.5 hrs,32 oz,Clean Easy,Spill resistant,0.7543,7.10,2.90,2.19
+$10,0.5 hrs,32 oz,Clean Easy,Leak resistant,0.7538,7.30,2.70,2.04
+$10,1 hrs,12 oz,Difficult (7 min),Slosh resistant,0.7634,3.50,6.50,4.96
+$10,1 hrs,12 oz,Difficult (7 min),Spill resistant,0.7627,3.80,6.20,4.73
+$10,1 hrs,12 oz,Difficult (7 min),Leak resistant,0.7622,4.00,6.00,4.57
+$10,1 hrs,12 oz,Clean Fair,Slosh resistant,0.7604,4.70,5.30,4.03
+$10,1 hrs,12 oz,Clean Fair,Spill resistant,0.7597,5.00,5.00,3.80
+$10,1 hrs,12 oz,Clean Fair,Leak resistant,0.7591,5.20,4.80,3.64
+$10,1 hrs,12 oz,Clean Easy,Slosh resistant,0.7584,5.50,4.50,3.41
+$10,1 hrs,12 oz,Clean Easy,Spill resistant,0.7576,5.80,4.20,3.18
+$10,1 hrs,12 oz,Clean Easy,Leak resistant,0.7571,6.00,4.00,3.03
+$10,1 hrs,20 oz,Difficult (7 min),Slosh resistant,0.7594,5.10,4.90,3.72
+$10,1 hrs,20 oz,Difficult (7 min),Spill resistant,0.7586,5.40,4.60,3.49
+$10,1 hrs,20 oz,Difficult (7 min),Leak resistant,0.7581,5.60,4.40,3.34
+$10,1 hrs,20 oz,Clean Fair,Slosh resistant,0.7563,6.30,3.70,2.80
+$10,1 hrs,20 oz,Clean Fair,Spill resistant,0.7556,6.60,3.40,2.57
+$10,1 hrs,20 oz,Clean Fair,Leak resistant,0.7551,6.80,3.20,2.42
+$10,1 hrs,20 oz,Clean Easy,Slosh resistant,0.7543,7.10,2.90,2.19
+$10,1 hrs,20 oz,Clean Easy,Spill resistant,0.7535,7.40,2.60,1.96
+$10,1 hrs,20 oz,Clean Easy,Leak resistant,0.7530,7.60,2.40,1.81
+$10,1 hrs,32 oz,Difficult (7 min),Slosh resistant,0.7589,5.30,4.70,3.57
+$10,1 hrs,32 oz,Difficult (7 min),Spill resistant,0.7581,5.60,4.40,3.34
+$10,1 hrs,32 oz,Difficult (7 min),Leak resistant,0.7576,5.80,4.20,3.18
+$10,1 hrs,32 oz,Clean Fair,Slosh resistant,0.7558,6.50,3.50,2.65
+$10,1 hrs,32 oz,Clean Fair,Spill resistant,0.7551,6.80,3.20,2.42
+$10,1 hrs,32 oz,Clean Fair,Leak resistant,0.7545,7.00,3.00,2.26
+$10,1 hrs,32 oz,Clean Easy,Slosh resistant,0.7538,7.30,2.70,2.04
+$10,1 hrs,32 oz,Clean Easy,Spill resistant,0.7530,7.60,2.40,1.81
+$10,1 hrs,32 oz,Clean Easy,Leak resistant,0.7525,7.80,2.20,1.66
+$10,3 hrs,12 oz,Difficult (7 min),Slosh resistant,0.7584,5.50,4.50,3.41
+$10,3 hrs,12 oz,Difficult (7 min),Spill resistant,0.7576,5.80,4.20,3.18
+$10,3 hrs,12 oz,Difficult (7 min),Leak resistant,0.7571,6.00,4.00,3.03
+$10,3 hrs,12 oz,Clean Fair,Slosh resistant,0.7553,6.70,3.30,2.49
+$10,3 hrs,12 oz,Clean Fair,Spill resistant,0.7545,7.00,3.00,2.26
+$10,3 hrs,12 oz,Clean Fair,Leak resistant,0.7540,7.20,2.80,2.11
+$10,3 hrs,12 oz,Clean Easy,Slosh resistant,0.7533,7.50,2.50,1.88
+$10,3 hrs,12 oz,Clean Easy,Spill resistant,0.7525,7.80,2.20,1.66
+$10,3 hrs,12 oz,Clean Easy,Leak resistant,0.7520,8.00,2.00,1.50
+$10,3 hrs,20 oz,Difficult (7 min),Slosh resistant,0.7543,7.10,2.90,2.19
+$10,3 hrs,20 oz,Difficult (7 min),Spill resistant,0.7535,7.40,2.60,1.96
+$10,3 hrs,20 oz,Difficult (7 min),Leak resistant,0.7530,7.60,2.40,1.81
+$10,3 hrs,20 oz,Clean Fair,Slosh resistant,0.7512,8.30,1.70,1.28
+$10,3 hrs,20 oz,Clean Fair,Spill resistant,0.7504,8.60,1.40,1.05
+$10,3 hrs,20 oz,Clean Fair,Leak resistant,0.7499,8.80,1.20,0.90
+$10,3 hrs,20 oz,Clean Easy,Slosh resistant,0.7491,9.10,0.90,0.67
+$10,3 hrs,20 oz,Clean Easy,Spill resistant,0.7483,9.40,0.60,0.45
+$10,3 hrs,20 oz,Clean Easy,Leak resistant,0.7478,9.60,0.40,0.30
+$10,3 hrs,32 oz,Difficult (7 min),Slosh resistant,0.7538,7.30,2.70,2.04
+$10,3 hrs,32 oz,Difficult (7 min),Spill resistant,0.7530,7.60,2.40,1.81
+$10,3 hrs,32 oz,Difficult (7 min),Leak resistant,0.7525,7.80,2.20,1.66
+$10,3 hrs,32 oz,Clean Fair,Slosh resistant,0.7507,8.50,1.50,1.13
+$10,3 hrs,32 oz,Clean Fair,Spill resistant,0.7499,8.80,1.20,0.90
+$10,3 hrs,32 oz,Clean Fair,Leak resistant,0.7494,9.00,1.00,0.75
+$10,3 hrs,32 oz,Clean Easy,Slosh resistant,0.7486,9.30,0.70,0.52
+$10,3 hrs,32 oz,Clean Easy,Spill resistant,0.7478,9.60,0.40,0.30
+$10,3 hrs,32 oz,Clean Easy,Leak resistant,0.7473,9.80,0.20,0.15
+$5,0.5 hrs,12 oz,Difficult (7 min),Slosh resistant,0.7655,3.00,2.00,1.53
+$5,0.5 hrs,12 oz,Difficult (7 min),Spill resistant,0.7648,3.30,1.70,1.30
+$5,0.5 hrs,12 oz,Difficult (7 min),Leak resistant,0.7643,3.50,1.50,1.15
+$5,0.5 hrs,12 oz,Clean Fair,Slosh resistant,0.7625,4.20,0.80,0.61
+$5,0.5 hrs,12 oz,Clean Fair,Spill resistant,0.7618,4.50,0.50,0.38
+$5,0.5 hrs,12 oz,Clean Fair,Leak resistant,0.7613,4.70,0.30,0.23
+$5,0.5 hrs,12 oz,Clean Easy,Slosh resistant,0.7605,5.00,0.00,0.00
+$5,0.5 hrs,12 oz,Clean Easy,Spill resistant,0.7597,5.30,-0.30,-0.23
+$5,0.5 hrs,12 oz,Clean Easy,Leak resistant,0.7592,5.50,-0.50,-0.38
+$5,0.5 hrs,20 oz,Difficult (7 min),Slosh resistant,0.7615,4.60,0.40,0.30
+$5,0.5 hrs,20 oz,Difficult (7 min),Spill resistant,0.7607,4.90,0.10,0.08
+$5,0.5 hrs,20 oz,Difficult (7 min),Leak resistant,0.7602,5.10,-0.10,-0.08
+$5,0.5 hrs,20 oz,Clean Fair,Slosh resistant,0.7585,5.80,-0.80,-0.61
+$5,0.5 hrs,20 oz,Clean Fair,Spill resistant,0.7577,6.10,-1.10,-0.83
+$5,0.5 hrs,20 oz,Clean Fair,Leak resistant,0.7572,6.30,-1.30,-0.98
+$5,0.5 hrs,20 oz,Clean Easy,Slosh resistant,0.7564,6.60,-1.60,-1.21
+$5,0.5 hrs,20 oz,Clean Easy,Spill resistant,0.7556,6.90,-1.90,-1.44
+$5,0.5 hrs,20 oz,Clean Easy,Leak resistant,0.7551,7.10,-2.10,-1.59
+$5,0.5 hrs,32 oz,Difficult (7 min),Slosh resistant,0.7610,4.80,0.20,0.15
+$5,0.5 hrs,32 oz,Difficult (7 min),Spill resistant,0.7602,5.10,-0.10,-0.08
+$5,0.5 hrs,32 oz,Difficult (7 min),Leak resistant,0.7597,5.30,-0.30,-0.23
+$5,0.5 hrs,32 oz,Clean Fair,Slosh resistant,0.7580,6.00,-1.00,-0.76
+$5,0.5 hrs,32 oz,Clean Fair,Spill resistant,0.7572,6.30,-1.30,-0.98
+$5,0.5 hrs,32 oz,Clean Fair,Leak resistant,0.7567,6.50,-1.50,-1.14
+$5,0.5 hrs,32 oz,Clean Easy,Slosh resistant,0.7559,6.80,-1.80,-1.36
+$5,0.5 hrs,32 oz,Clean Easy,Spill resistant,0.7551,7.10,-2.10,-1.59
+$5,0.5 hrs,32 oz,Clean Easy,Leak resistant,0.7546,7.30,-2.30,-1.74
+$5,1 hrs,12 oz,Difficult (7 min),Slosh resistant,0.7643,3.50,1.50,1.15
+$5,1 hrs,12 oz,Difficult (7 min),Spill resistant,0.7635,3.80,1.20,0.92
+$5,1 hrs,12 oz,Difficult (7 min),Leak resistant,0.7630,4.00,1.00,0.76
+$5,1 hrs,12 oz,Clean Fair,Slosh resistant,0.7613,4.70,0.30,0.23
+$5,1 hrs,12 oz,Clean Fair,Spill resistant,0.7605,5.00,0.00,0.00
+$5,1 hrs,12 oz,Clean Fair,Leak resistant,0.7600,5.20,-0.20,-0.15
+$5,1 hrs,12 oz,Clean Easy,Slosh resistant,0.7592,5.50,-0.50,-0.38
+$5,1 hrs,12 oz,Clean Easy,Spill resistant,0.7585,5.80,-0.80,-0.61
+$5,1 hrs,12 oz,Clean Easy,Leak resistant,0.7580,6.00,-1.00,-0.76
+$5,1 hrs,20 oz,Difficult (7 min),Slosh resistant,0.7602,5.10,-0.10,-0.08
+$5,1 hrs,20 oz,Difficult (7 min),Spill resistant,0.7595,5.40,-0.40,-0.30
+$5,1 hrs,20 oz,Difficult (7 min),Leak resistant,0.7590,5.60,-0.60,-0.46
+$5,1 hrs,20 oz,Clean Fair,Slosh resistant,0.7572,6.30,-1.30,-0.98
+$5,1 hrs,20 oz,Clean Fair,Spill resistant,0.7564,6.60,-1.60,-1.21
+$5,1 hrs,20 oz,Clean Fair,Leak resistant,0.7559,6.80,-1.80,-1.36
+$5,1 hrs,20 oz,Clean Easy,Slosh resistant,0.7551,7.10,-2.10,-1.59
+$5,1 hrs,20 oz,Clean Easy,Spill resistant,0.7544,7.40,-2.40,-1.81
+$5,1 hrs,20 oz,Clean Easy,Leak resistant,0.7538,7.60,-2.60,-1.96
+$5,1 hrs,32 oz,Difficult (7 min),Slosh resistant,0.7597,5.30,-0.30,-0.23
+$5,1 hrs,32 oz,Difficult (7 min),Spill resistant,0.7590,5.60,-0.60,-0.46
+$5,1 hrs,32 oz,Difficult (7 min),Leak resistant,0.7585,5.80,-0.80,-0.61
+$5,1 hrs,32 oz,Clean Fair,Slosh resistant,0.7567,6.50,-1.50,-1.14
+$5,1 hrs,32 oz,Clean Fair,Spill resistant,0.7559,6.80,-1.80,-1.36
+$5,1 hrs,32 oz,Clean Fair,Leak resistant,0.7554,7.00,-2.00,-1.51
+$5,1 hrs,32 oz,Clean Easy,Slosh resistant,0.7546,7.30,-2.30,-1.74
+$5,1 hrs,32 oz,Clean Easy,Spill resistant,0.7538,7.60,-2.60,-1.96
+$5,1 hrs,32 oz,Clean Easy,Leak resistant,0.7533,7.80,-2.80,-2.11
+$5,3 hrs,12 oz,Difficult (7 min),Slosh resistant,0.7592,5.50,-0.50,-0.38
+$5,3 hrs,12 oz,Difficult (7 min),Spill resistant,0.7585,5.80,-0.80,-0.61
+$5,3 hrs,12 oz,Difficult (7 min),Leak resistant,0.7580,6.00,-1.00,-0.76
+$5,3 hrs,12 oz,Clean Fair,Slosh resistant,0.7562,6.70,-1.70,-1.29
+$5,3 hrs,12 oz,Clean Fair,Spill resistant,0.7554,7.00,-2.00,-1.51
+$5,3 hrs,12 oz,Clean Fair,Leak resistant,0.7549,7.20,-2.20,-1.66
+$5,3 hrs,12 oz,Clean Easy,Slosh resistant,0.7541,7.50,-2.50,-1.89
+$5,3 hrs,12 oz,Clean Easy,Spill resistant,0.7533,7.80,-2.80,-2.11
+$5,3 hrs,12 oz,Clean Easy,Leak resistant,0.7528,8.00,-3.00,-2.26
+$5,3 hrs,20 oz,Difficult (7 min),Slosh resistant,0.7551,7.10,-2.10,-1.59
+$5,3 hrs,20 oz,Difficult (7 min),Spill resistant,0.7544,7.40,-2.40,-1.81
+$5,3 hrs,20 oz,Difficult (7 min),Leak resistant,0.7538,7.60,-2.60,-1.96
+$5,3 hrs,20 oz,Clean Fair,Slosh resistant,0.7520,8.30,-3.30,-2.48
+$5,3 hrs,20 oz,Clean Fair,Spill resistant,0.7513,8.60,-3.60,-2.70
+$5,3 hrs,20 oz,Clean Fair,Leak resistant,0.7507,8.80,-3.80,-2.85
+$5,3 hrs,20 oz,Clean Easy,Slosh resistant,0.7500,9.10,-4.10,-3.07
+$5,3 hrs,20 oz,Clean Easy,Spill resistant,0.7492,9.40,-4.40,-3.30
+$5,3 hrs,20 oz,Clean Easy,Leak resistant,0.7487,9.60,-4.60,-3.44
+$5,3 hrs,32 oz,Difficult (7 min),Slosh resistant,0.7546,7.30,-2.30,-1.74
+$5,3 hrs,32 oz,Difficult (7 min),Spill resistant,0.7538,7.60,-2.60,-1.96
+$5,3 hrs,32 oz,Difficult (7 min),Leak resistant,0.7533,7.80,-2.80,-2.11
+$5,3 hrs,32 oz,Clean Fair,Slosh resistant,0.7515,8.50,-3.50,-2.63
+$5,3 hrs,32 oz,Clean Fair,Spill resistant,0.7507,8.80,-3.80,-2.85
+$5,3 hrs,32 oz,Clean Fair,Leak resistant,0.7502,9.00,-4.00,-3.00
+$5,3 hrs,32 oz,Clean Easy,Slosh resistant,0.7494,9.30,-4.30,-3.22
+$5,3 hrs,32 oz,Clean Easy,Spill resistant,0.7487,9.60,-4.60,-3.44
+$5,3 hrs,32 oz,Clean Easy,Leak resistant,0.7481,9.80,-4.80,-3.59
